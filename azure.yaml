@@ -1,0 +1,6 @@
+name: web-github-copilot
+services:
+  web-github-copilot:
+    project: .
+    language: dotnet
+    host: appservice

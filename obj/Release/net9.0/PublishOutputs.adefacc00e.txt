@@ -1,0 +1,10 @@
+C:\Users\pbalanagendra\AppData\Local\Temp\azd3733924920\web.exe
+C:\Users\pbalanagendra\AppData\Local\Temp\azd3733924920\appsettings.Development.json
+C:\Users\pbalanagendra\AppData\Local\Temp\azd3733924920\appsettings.json
+C:\Users\pbalanagendra\AppData\Local\Temp\azd3733924920\infra\main.parameters.json
+C:\Users\pbalanagendra\AppData\Local\Temp\azd3733924920\web.dll
+C:\Users\pbalanagendra\AppData\Local\Temp\azd3733924920\web.deps.json
+C:\Users\pbalanagendra\AppData\Local\Temp\azd3733924920\web.runtimeconfig.json
+C:\Users\pbalanagendra\AppData\Local\Temp\azd3733924920\web.pdb
+C:\Users\pbalanagendra\AppData\Local\Temp\azd3733924920\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\pbalanagendra\AppData\Local\Temp\azd3733924920\Microsoft.OpenApi.dll
